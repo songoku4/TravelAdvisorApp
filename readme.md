@@ -1,1 +1,0 @@
-This is a TravelAdvisory Application built using Travel Advisor Rapid API Integration.
